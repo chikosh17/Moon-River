@@ -1,8 +1,13 @@
 body{
-    margin: auto;
     background: #E5E5E5;
 }
 .black-border{
     display: flex;
     color: black;
+}
+.theme{
+width: 257.04px;
+height: 28.35px;
+left: 168px;
+top: 70.33px;
 }
