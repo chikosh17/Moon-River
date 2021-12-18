@@ -1,9 +1,6 @@
 body{
     background: #E5E5E5;
-}
-.black-border{
     display: flex;
-    color: black;
 }
 .theme{
 margin-top: 70.33px;
@@ -12,4 +9,15 @@ margin-left: 162.86px;
 .theme2{
 margin-left: 162.86px;
 margin-top: 340.33px; 
+}
+.black-backgrond{
+background-color: black;
+width: 430px;
+height: 1024px;
+margin-left: 878px;
+margin-top: -520px;
+}
+.ring{
+    margin-left: 730px;
+   margin-top: -590px;
 }
