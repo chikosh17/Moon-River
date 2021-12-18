@@ -6,8 +6,10 @@ body{
     color: black;
 }
 .theme{
-width: 257.04px;
-height: 28.35px;
-left: 168px;
-top: 70.33px;
+margin-top: 70.33px;
+margin-left: 162.86px;
+}
+.theme2{
+margin-left: 162.86px;
+margin-top: 340.33px; 
 }
