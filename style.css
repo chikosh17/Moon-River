@@ -54,3 +54,16 @@ position: absolute;
 left: 1133px;
 top: 77px;
 }
+.one{
+position: absolute;
+left: 1158px;
+top: 75px;
+font-family: Futura PT;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
