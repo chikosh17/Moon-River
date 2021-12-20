@@ -1,7 +1,7 @@
 
 body{
-    background: white;
-    display: flex;
+background: white;
+display: flex;
 }
 .theme{
 margin-top: 70.33px;
@@ -19,11 +19,11 @@ margin-left: 873px;
 margin-top: -520px;
 }
 .ring{
-    margin-left: 730px;
-   margin-top: -590px;
+margin-left: 730px;
+margin-top: -590px;
 }
 .line1{
-    margin-left: 291px;
+margin-left: 291px;
 }
 .first-text{
 position: absolute;
@@ -89,4 +89,62 @@ letter-spacing: 0.05em;
 text-transform: uppercase;
 color: #FFFFFF;
 
+}
+.description2{
+position: absolute;
+left: 1089px;
+top: 908px;
+font-family: "Futura PT";
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: right;
+color: #C2C2C2;
+}
+.description3{
+position: absolute;
+left: 1199px;
+top: 940px;
+font-family: "Segoe UI";
+font-style: italic;
+font-weight: 300;
+font-size: 18px;
+line-height: 24px;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+color: #EFC58B;
+}
+.ru{
+position: absolute;
+left: 162px;
+top: 960px;
+font-family: "Futura PT";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #272727;
+}
+.en{
+position: absolute;
+left: 192px;
+top: 960px;
+font-family: "Futura PT";
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+color: #C4C4C4;
 }
