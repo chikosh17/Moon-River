@@ -148,3 +148,12 @@ letter-spacing: 0.05em;
 text-transform: uppercase;
 color: #C4C4C4;
 }
+.page-2{
+position: absolute;
+width: 710px;
+height: 587px;
+left: 0px;
+top: 1044px;
+    
+background-image: url(imgs/boy.png);
+}
