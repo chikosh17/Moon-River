@@ -1,5 +1,5 @@
 body{
-    background: #E5E5E5;
+    background: white;
     display: flex;
 }
 .theme{
@@ -11,10 +11,10 @@ margin-left: 162.86px;
 margin-top: 340.33px; 
 }
 .black-backgrond{
-background-color: black;
-width: 430px;
+background-color: #272727;
+width: 480px;
 height: 1024px;
-margin-left: 878px;
+margin-left: 873px;
 margin-top: -520px;
 }
 .ring{
@@ -57,7 +57,7 @@ top: 77px;
 .one{
 position: absolute;
 left: 1158px;
-top: 75px;
+top: 83px;
 font-family: Futura PT;
 font-style: normal;
 font-weight: 300;
@@ -66,4 +66,9 @@ line-height: 23px;
 display: flex;
 align-items: center;
 color: #FFFFFF;
+}
+.panel{
+position: absolute;
+left: 1248px;
+top: 80px;
 }
