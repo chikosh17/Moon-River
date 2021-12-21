@@ -148,12 +148,62 @@ letter-spacing: 0.05em;
 text-transform: uppercase;
 color: #C4C4C4;
 }
-.page-2{
+.boy{
 position: absolute;
-width: 710px;
+width: 667px;
 height: 587px;
 left: 0px;
-top: 1044px;
-    
+top: 1034px;
 background-image: url(imgs/boy.png);
+}
+.phon{
+position: absolute;
+width: 667px;
+height: 587px;
+left: 0px;
+top: 1034px;
+background: rgba(39, 39, 39, 0.4);
+}
+.boy-text{
+    position: absolute;
+    width: 171px;
+    height: 31px;
+    left: 269px;
+    top: 1271px;
+    
+    font-family: Futura PT;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 31px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+    color: #FFFFFF;
+    
+}
+.girl{
+position: absolute;
+width: 667px;
+height: 587px;
+left: 683px;
+top: 1034px;
+background-image: url(imgs/girl.png);
+}
+.map{
+position: absolute;
+left: 667px;
+top: 1640px;
+
+}
+.divmap{
+position: absolute;
+width: 667px;
+height: 557px;
+left: 0px;
+top: 1640px;
+background: #272727;
 }
