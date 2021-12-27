@@ -197,3 +197,24 @@ position: absolute;
 left: 180px;
 top: 1302px;
 }
+.line-man{
+position: absolute;
+left: 290px;
+top: 1396px;
+}
+.woman{
+position: absolute;
+left: 1000px;
+top: 1271px;
+
+}
+.for-woman{
+position: absolute;
+left: 908px;
+top: 1302px;
+}
+.line-woman{
+position: absolute;
+left: 1024px;
+top: 1396px;
+}
